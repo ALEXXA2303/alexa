@@ -6,7 +6,7 @@
   
   body {
     font-family: Arial, sans-serif;
-    background-color: #9cdd80;
+    background-color: #1f5109;
     padding: 20px;
   }
   
@@ -26,7 +26,7 @@
   }
   
   form {
-    background-color: rgb(236, 144, 144);
+    background-color: rgb(174, 42, 42);
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
@@ -70,7 +70,7 @@
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #09650c;
+    background-color: #3dd142;
     color: white;
     border: none;
     border-radius: 5px;
@@ -79,5 +79,5 @@
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #17821e;
   }
